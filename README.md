@@ -1,6 +1,6 @@
 # labour_rate_calculator
 
-A new Flutter application.
+Construction Cost Calculator on Labour Rates.
 
 ## Getting Started
 
